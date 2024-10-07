@@ -57,6 +57,11 @@
             <artifactId>gson</artifactId>
             <version>2.8.8</version> 
         </dependency>
+        <dependency>
+            <groupId>io.rollout.rox</groupId>
+            <artifactId>rox-java-server</artifactId>
+            <version>5.0.4</version>
+        </dependency>
     </dependencies>
 
     <build>
