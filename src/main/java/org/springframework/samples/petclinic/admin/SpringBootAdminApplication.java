@@ -51,7 +51,7 @@ public class SpringBootAdminApplication {
                 })
                 .build();
         // Setup the Rollout environment key
-        Rox.setup("66fe9bb334863653de479a9e", options).get();
+        Rox.setup("6703cd30a3498a7b2736cc44", options).get();
         // Boolean flag example
         if (flags.enableTutorial.isEnabled()) {
             // TODO:  Put your code here that needs to be gated
