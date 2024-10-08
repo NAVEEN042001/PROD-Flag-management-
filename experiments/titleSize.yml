@@ -4,3 +4,5 @@ flag: titleSize
 availableValues:
   - 24
   - 18
+  - 14
+value: 14
