@@ -10,5 +10,5 @@ availableValues:
 conditions:
   - group:
       name: betaUser
-    value: null
+    value: Blue
 value: Green
