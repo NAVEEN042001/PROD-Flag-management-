@@ -1,0 +1,6 @@
+type: target-group
+name: FontSize
+conditions:
+  - operator: regex
+    property: rox.language
+    operand: '1000'

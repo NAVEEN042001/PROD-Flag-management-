@@ -1,0 +1,5 @@
+type: target-group
+name: betaUser
+conditions:
+  - operator: is-undefined
+    property: rox.app_release

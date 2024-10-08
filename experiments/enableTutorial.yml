@@ -1,0 +1,9 @@
+# This file was edited by CloudBees Feature Management
+type: experiment
+flag: enableTutorial
+conditions:
+  - dependency:
+      flag: titleColors
+      value: Yellow
+    value: true
+value: false
