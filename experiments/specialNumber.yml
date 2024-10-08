@@ -4,4 +4,4 @@ flag: specialNumber
 availableValues:
   - 2.71
   - 0.577
-value: 0.577
+  - 3.14
