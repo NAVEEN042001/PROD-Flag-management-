@@ -5,3 +5,5 @@ availableValues:
   - YELLOW
   - GREEN
   - BLUE
+  - WHITE
+value: WHITE
